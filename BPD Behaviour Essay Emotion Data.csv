@@ -1,0 +1,405 @@
+ResponseID,Gender,Age,Ethnicity/race,Education,EmploymentStatus,BPD_Affect,BPD_Identity,BPD_Social,BPD_SelfHarm,BPD_Total,LIWC_WC,LIWC_posemo,LIWC_negemo,TTR_Overall,TTR_NonDict,Neg_EV,Pos_EV,AnxFear_EV,Anger_EV,Sadness_EV,NegUndiff_EV
+R_0AJFTHqx2rV0c4p,Female,26,White,Higher education degree,Employed full-time,6,7,8,3,24,50,2.00,0.00,71.42857143,71.42857143,0,0,0,0,0,0
+R_0GKPtbZ8QoSXgnn,Male,25,White,College graduate,Student,3,6,5,0,14,371,3.50,0.00,48.92086331,48.79227053,0,0.479616307,0,0,0,0
+R_0InZSwk9BVJil0Z,Female,18,White,High school graduate,Student,8,15,14,4,41,362,2.21,2.21,53.26633166,52.79187817,0.502512563,0.251256281,0,0.502512563,0,0.251256281
+R_10Pj2jA424H07cE,Female,33,White,College graduate,Employed full-time,15,14,10,10,49,326,1.53,1.23,47.08994709,46.66666667,0.529100529,0.264550265,0.264550265,0,0.264550265,0
+R_1112NDzPd5INcsx,Female,20,Black,Some college,Student,9,12,5,1,27,221,1.81,0.90,54.8,54.6184739,0,0,0,0,0,0.4
+R_111MjLLdHwGJ1xN,Female,29,White,Some college,Employed full-time,4,3,7,3,17,200,1.50,1.00,47.78761062,47.78761062,0,0,0,0,0,0
+R_116lWuPvh2b6fki,Female,24,White,High school graduate,Student,13,14,15,10,52,64,1.56,0.00,63.75,63.75,0,0,0,0,0,0
+R_125XYHL3ruOu09M,Female,18,Hispanic,High school graduate,Employed part-time,16,17,18,12,63,201,1.99,4.48,58.63636364,58.60465116,1.363636364,0,0,0,0.909090909,0
+R_12LSPPnnAzckIS6,Female,21,White,College graduate,Employed full-time,7,8,3,1,19,141,3.55,0.00,44.96644295,44.96644295,0,0,0,0,0,0
+R_12nXrZpG6hHWTeT,Female,21,Black,Some college,Student,13,4,10,3,30,154,1.95,0.65,63.47305389,63.25301205,0.598802395,0,0.598802395,0,0,0
+R_12PWpSjVaVN1cQZ,Male,29,White,Higher education degree,Employed full-time,4,8,8,1,21,102,1.96,0.98,63.02521008,62.71186441,0.840336134,0,0.840336134,0,0,0
+R_1Ao14jNAiAxr1tL,Female,27,White,Some college,Employed full-time,10,15,12,3,40,267,1.87,1.50,51.46579805,51.30718954,0,0.325732899,0,0,0,0
+R_1C47nEz9xkIEBjE,Female,21,Hispanic,Some college,Student,10,10,11,8,39,63,1.59,0.00,69.73684211,69.73684211,0,0,0,0,0,0
+R_1C7Ri9lAoCnQnEQ,Female,19,White,College graduate,Student,11,6,7,13,37,247,1.62,2.43,57.24381625,56.93950178,0.35335689,0.35335689,0,0,0.35335689,0
+R_1CfQTMRnXHQQoAY,Female,22,White,Higher education degree,Self-employed,6,7,6,0,19,129,0.78,0.00,46.95121951,46.95121951,0,0,0,0,0,0
+R_1CJzQTVsS2IIhRG,Non-binary,30,White,College graduate,Employed full-time,7,10,12,7,36,51,0.00,1.96,80.64516129,80.32786885,0,0,0,0,0,1.612903226
+R_1CqZDmIDkhL2Opp,Female,55,White,Some college,Retired,2,9,6,0,17,61,0.00,1.64,66.23376623,66.23376623,0,0,0,0,0,0
+R_1dAzwLdw4llIWFh,Female,25,White,Higher education degree,Employed part-time,16,18,16,7,57,224,3.12,1.34,55.69105691,55.51020408,0,0.406504065,0,0,0,0
+R_1DO8hxJtKYZn4Hc,Female,28,White,Higher education degree,"Unemployed, looking for work",9,11,13,9,42,70,2.86,1.43,70,69.62025316,1.25,0,0,0,1.25,0
+R_1DtLfP91Dj9Udkg,Male,18,White,Less than high school,Student,12,9,11,13,45,461,2.17,1.08,46.37096774,46.3562753,0.201612903,0,0,0,0.201612903,0
+R_1Duw5OV6br34CMY,Female,32,White,Postgraduate degree,Employed full-time,16,8,12,15,51,174,2.87,2.30,61.2565445,60.84656085,0,1.047120419,0,0,0,0
+R_1duzPKDd2NAItWN,Female,25,Black,College graduate,Student,13,,10,9,,304,2.30,1.64,52.04678363,51.76470588,0.584795322,0,0,0,0.292397661,0
+R_1E4FMDCqBv5uL4m,Female,26,White,High school graduate,Student,13,10,7,7,37,150,0.00,0.00,60.11904762,60.11904762,0,0,0,0,0,0
+R_1eRZn8uNWevm8Vj,Non-binary,20,White,Some college,"Unemployed, not looking for work",14,13,11,13,51,173,1.73,1.16,57.52688172,57.52688172,0,0,0,0,0,0
+R_1ewKeMz1Zj8VxMc,Female,42,White,College graduate,Employed full-time,8,6,8,5,27,71,1.41,0.00,75.90361446,75.90361446,0,0,0,0,0,0
+R_1f7QUDtAL8KIJCQ,Male,20,White,High school graduate,"Unemployed, looking for work",7,3,4,11,25,112,1.79,0.89,61.11111111,60.8,0,0.793650794,0,0,0,0
+R_1FaN1mOzoPq4tvt,Female,38,,Higher education degree,Self-employed,13,10,13,5,41,166,1.81,1.81,54.97382199,54.97382199,0,0,0,0,0,0
+R_1FEXJkQHlMQMPqH,Female,34,Mixed-raced,Postgraduate degree,Employed full-time,7,3,5,3,18,234,0.43,0.43,53.6121673,53.6121673,0,0,0,0,0,0
+R_1FJ9YZCIUVnX3by,Female,19,Asian,High school graduate,Student,18,15,6,13,52,248,1.21,3.23,55.97014925,55.13307985,0.373134328,0.373134328,0,0,0.373134328,0.373134328
+R_1Fqrsc7AHhQOLqW,Female,18,White,High school graduate,Employed part-time,7,8,8,3,26,73,2.74,2.74,71.59090909,71.26436782,0,0,0,0,0,1.136363636
+R_1Fr2f2iqA2fj2t0,Female,22,White,Higher education degree,Employed part-time,10,6,,8,,199,2.51,1.51,54.86725664,54.86725664,0,0,0,0,0,0
+R_1FsQxInahn6tq6w,Female,30,White,College graduate,Employed full-time,2,15,,6,,235,2.55,0.43,56.34920635,56,0,0.793650794,0,0,0,0
+R_1gd1viXZ8uRvPiF,Female,46,White,Postgraduate degree,Employed part-time,12,8,10,5,35,257,1.56,0.00,43.97394137,43.97394137,0,0,0,0,0,0
+R_1gIxfOnUt6OA83M,Male,20,White,Less than high school,"Unemployed, not looking for work",17,14,12,14,57,149,3.36,0.67,53.93939394,53.93939394,0,0,0,0,0,0
+R_1Gwy6ZZ5yCJJ2Xk,Male,20,White,Some college,Self-employed,11,10,10,4,35,180,1.67,0.56,56.91489362,56.91489362,0,0,0,0,0,0
+R_1HdkJggd4hevYMt,Female,28,Hispanic,College graduate,Employed full-time,9,9,11,3,32,479,1.67,1.88,35.06224066,34.92723493,0.20746888,0,0,0.20746888,0,0
+R_1hFM9xKCHkYaiwR,,27,White,Postgraduate degree,Employed full-time,11,13,12,2,38,214,1.87,0.00,55.14403292,54.95867769,0,0.411522634,0,0,0,0
+R_1Hjno2PLlXwXT8B,Female,18,White,High school graduate,"Unemployed, looking for work",13,8,10,8,39,262,3.82,1.15,48.63945578,48.46416382,0,0,0,0,0,0.340136054
+R_1hLUGGz0tAhN6Ke,Female,27,White,Postgraduate degree,Employed full-time,17,13,10,10,50,236,1.27,0.42,50.38461538,50.19305019,0.384615385,0,0,0,0,0
+R_1hMBfvJslHmDJiv,Female,32,White,Postgraduate degree,Employed full-time,9,2,5,3,19,156,0.64,0.00,51.47928994,51.47928994,0,0,0,0,0,0
+R_1I4YoQDgvmeCL5G,Male,51,White,Higher education degree,Employed full-time,12,6,10,2,30,53,1.89,0.00,79.6875,79.6875,0,0,0,0,0,0
+R_1IEtnKVED78p9wC,Female,19,Mixed-raced,Some college,Student,10,18,3,7,38,134,0.75,2.24,64.4295302,64.18918919,0.67114094,0,0,0.67114094,0,0
+R_1ifahaMAtbMQP9T,Female,28,White,Some college,"Unemployed, not looking for work",15,17,12,18,62,128,0.78,0.78,62.58992806,62.58992806,0,0,0,0,0,0
+R_1Ii8OvD4bykMIAQ,Female,21,Mixed-raced,High school graduate,"Unemployed, not looking for work",14,14,14,6,48,138,0.00,7.25,65.30612245,64.08450704,2.721088435,0,1.360544218,0,1.360544218,0.680272109
+R_1Iua0UH0CKlN5GR,Female,36,White,Some college,Student,8,12,13,4,37,107,2.80,0.00,77.47747748,77.47747748,0,0,0,0,0,0
+R_1IyqH0Oi8X1EoaR,Female,26,White,Some college,Employed part-time,14,16,15,8,53,293,2.05,2.05,51.53374233,51.08359133,0.920245399,0,0.306748466,0,0,0
+R_1jCjwCf5d9Zprmp,Female,29,White,Some college,Student,13,11,8,5,37,305,1.97,3.61,52.10843373,51.70278638,1.506024096,0,0.301204819,0.301204819,0,0
+R_1jInBNIYZmIVwCI,Male,42,White,Higher education degree,Employed full-time,10,11,16,8,45,115,2.61,0.87,51.11111111,51.11111111,0,0,0,0,0,0
+R_1K1QBl6HmD0MmHU,Female,27,White,Higher education degree,Employed full-time,5,8,4,4,21,161,1.24,0.00,50.72463768,50.72463768,0,0,0,0,0,0
+R_1KfD4ewZRFArqJr,Female,18,White,,Student,14,11,13,8,46,158,0.63,0.00,58.57988166,58.57988166,0,0,0,0,0,0
+R_1KOLRldlR9chCZX,Male,28,White,Higher education degree,"Unemployed, not looking for work",14,14,10,11,49,170,0.59,1.18,54.4973545,54.01069519,0.529100529,0,0,0,0.529100529,0.529100529
+R_1KqZnBn9dkLui12,Female,29,White,Higher education degree,Employed full-time,7,11,4,6,28,70,1.43,1.43,64.04494382,63.63636364,0,0,0,0,0,1.123595506
+R_1kSsgOa81xalGQh,Female,23,White,Higher education degree,Student,9,13,8,3,33,186,1.61,2.15,51.18483412,51.20772947,0.473933649,0.473933649,0,0,0.473933649,0
+R_1Kxzo4w5SwuiKRn,Female,39,White,Higher education degree,"Unemployed, not looking for work",13,13,14,7,47,281,1.07,1.78,51.76848875,51.61290323,0.321543408,0,0,0.321543408,0,0
+R_1KyfUOVVNYixXYx,Female,30,White,Postgraduate degree,Student,14,11,10,8,43,305,3.28,1.64,49.41176471,49.26253687,0,0.294117647,0,0,0,0
+R_1l46it6M8OCivFA,Female,36,Hispanic,Higher education degree,Employed full-time,,5,10,,,234,0.85,1.71,49.43396226,49.04942966,0.754716981,0,0,0,0.754716981,0
+R_1l5bwJUgx0EUdtm,Female,18,White,High school graduate,Employed part-time,17,15,14,15,61,234,1.28,0.43,56.48854962,56.48854962,0,0,0,0,0,0
+R_1lazqEr35dxEhdM,Female,21,White,Some college,Employed full-time,18,13,9,4,44,119,3.36,1.68,67.40740741,67.40740741,0,0,0,0,0,0
+R_1LiXmWTn5DBOsfh,Female,32,White,Some college,"Unemployed, not looking for work",12,7,17,3,39,113,1.77,0.00,59.23076923,59.23076923,0,0,0,0,0,0
+R_1Lk6Oul2kpy6IA7,Female,38,White,Higher education degree,Employed full-time,14,7,13,13,47,65,4.62,1.54,69.04761905,68.6746988,0,1.19047619,0,0,0,0
+R_1llSb8jJyyvRvEb,Female,28,Hispanic,Higher education degree,Employed full-time,14,11,10,8,43,146,2.05,1.37,65.85365854,65.85365854,0,0,0,0,0,0
+R_1Lq8aJufZs4xtRq,Female,18,White,High school graduate,Employed part-time,10,15,14,13,52,54,1.85,0.00,67.79661017,67.79661017,0,0,0,0,0,0
+R_1lsECk9vfTiz3d8,Female,18,Mixed-raced,High school graduate,Student,14,10,10,4,38,71,0.00,2.82,70.37037037,70.37037037,0,0,0,0,0,0
+R_1LvyOXdNE5e7ZdK,Female,24,White,College graduate,Student,15,12,11,1,39,90,1.11,2.22,65.65656566,65.30612245,1.01010101,0,1.01010101,0,0,0
+R_1M3sC2dgtgKVpiv,Female,42,White,College graduate,Employed full-time,15,8,15,7,45,214,0.93,3.27,56.83760684,56.27705628,0.854700855,0.427350427,0.854700855,0,0,0
+R_1M67VVj0mSXq58M,Female,20,White,High school graduate,Student,16,15,15,2,48,216,1.39,2.31,51.0373444,50,0.829875519,0.829875519,0.414937759,0.414937759,0,0.414937759
+R_1Mj4wbzUMkgJQeB,Male,18,White,High school graduate,Student,3,11,9,0,23,82,1.22,2.44,74.72527473,74.15730337,1.098901099,0,1.098901099,0,0,1.098901099
+R_1mO9O8gTdjfpqn8,Female,20,Asian,Some college,Student,10,8,7,7,32,153,2.61,0.00,62.35294118,62.65060241,0,1.176470588,0,0,0,0
+R_1mP2MTvchiEi9Mf,Male,19,Asian,High school graduate,"Unemployed, not looking for work",13,13,13,9,48,65,1.54,1.54,63.88888889,63.88888889,0,0,0,0,0,0
+R_1n28lglzOyzlAI1,,22,White,College graduate,"Unemployed, looking for work",10,9,12,3,34,194,1.55,1.55,57.0754717,57.0754717,0,0,0,0,0,0
+R_1N3TrskD5wKpWwT,Female,21,Mixed-raced,High school graduate,Student,12,16,13,3,44,174,0.57,0.57,56.5,56.5,0,0,0,0,0,0
+R_1NsK6UUMSEQ3in8,Male,21,White,Higher education degree,Employed part-time,12,9,8,11,40,451,1.11,0.67,41.78498986,41.54786151,0.405679513,0,0.202839757,0,0.202839757,0
+R_1o73onLkSyc60jn,Female,20,Hispanic,Some college,Employed full-time,17,17,16,17,67,335,1.19,2.69,54.64190981,54.5212766,0,0,0,0,0,0.265251989
+R_1o8co1t5NZYAyiU,Female,29,Asian,Postgraduate degree,Employed full-time,10,12,14,11,47,124,5.65,0.81,60.14492754,59.8540146,0,0.724637681,0,0,0,0
+R_1ob9fCC7dXfFn2t,Non-binary,18,White,High school graduate,"Unemployed, not looking for work",14,16,15,10,55,291,2.41,1.72,47.78481013,47.4522293,0.316455696,0.316455696,0,0,0,0
+R_1oGvURLOrkmkZ1u,Female,19,Middle Eastern,Higher education degree,Student,9,,7,1,,297,2.02,2.36,53.03514377,52.42718447,0.958466454,0,0.638977636,0,0,0
+R_1ogXutyJGxTt59O,Female,22,White,College graduate,"Unemployed, looking for work",10,12,6,1,29,243,1.65,2.06,56.27376426,56.10687023,0,0,0,0,0,0.380228137
+R_1oIljn5YZmEloJl,Female,25,White,Postgraduate degree,Employed part-time,4,6,4,2,16,70,1.43,2.86,73.4939759,73.17073171,0,1.204819277,0,0,0,0
+R_1OPmg5ivMuutj9m,Female,22,White,High school graduate,Employed part-time,16,18,12,13,59,67,1.49,1.49,58.44155844,58.44155844,0,0,0,0,0,0
+R_1OYTDAIKeHQt4GE,Female,18,White,High school graduate,Student,11,12,12,9,44,146,2.05,0.00,52.84090909,52.84090909,0,0,0,0,0,0
+R_1OZ7THP9OwtyCYd,Female,22,White,Some college,Employed full-time,5,11,9,3,28,288,2.43,2.78,52.50737463,52.09580838,0.884955752,0,0.884955752,0,0,0
+R_1pG10uXrEtUmYFR,Female,33,Hispanic,High school graduate,Employed part-time,14,13,9,11,47,336,2.08,1.79,51.53203343,51.12359551,0.557103064,0,0.278551532,0,0.278551532,0.278551532
+R_1pStJawBqkRfqjf,Female,25,Mixed-raced,Higher education degree,Student,7,11,9,5,32,114,0.00,0.88,64.51612903,64.51612903,0,0,0,0,0,0
+R_1PT6EuFpUjFCJWN,Male,28,White,College graduate,"Unemployed, looking for work",14,17,8,7,46,65,0.00,3.08,67.6056338,67.6056338,0,0,0,0,0,0
+R_1pxIeN2suUtEVrk,Female,21,White,High school graduate,Employed full-time,14,17,15,7,53,197,0.00,3.55,56.48148148,56.33802817,0,0,0,0,0,0.925925926
+R_1Qh041uGETR1Xg3,Female,26,White,Higher education degree,Employed part-time,16,17,11,11,55,184,1.09,3.80,54.76190476,54.54545455,0,0,0,0,0,0.476190476
+R_1QnlAlK4OBypfuA,Female,19,Asian,High school graduate,Student,6,13,9,1,29,96,1.04,0.00,70,70,0,0,0,0,0,0
+R_1QnlwWyCPiX8mpY,Male,19,Mixed-raced,High school graduate,Student,8,12,8,7,35,166,1.81,0.00,62.10526316,62.10526316,0,0,0,0,0,0
+R_1r0KjCHk25BqRpT,Non-binary,42,,College graduate,Employed part-time,5,6,7,7,25,54,1.85,1.85,73.84615385,73.84615385,0,0,0,0,0,0
+R_1RENitr2gtVfmHT,Male,21,Asian,Higher education degree,Student,9,8,8,7,32,194,2.06,1.03,53.53982301,53.53982301,0,0,0,0,0,0
+R_1rkA99dubQFXMDu,Female,29,White,Postgraduate degree,"Unemployed, not looking for work",9,9,9,5,32,186,3.23,1.61,65.59633028,65.43778802,0,0,0,0,0,0.458715596
+R_1rod7AiMOUp2FP3,Male,18,,High school graduate,Student,17,12,11,6,46,147,2.04,2.04,61.30952381,61.30952381,0,0,0,0,0,0
+R_1rp2wNjhRfGjbcy,Male,27,White,Some college,Student,8,8,4,3,23,146,4.79,0.68,52.09580838,51.51515152,0,1.19760479,0,0,0,0
+R_1Uems4zyX9fgCbv,Female,18,Asian,Some college,Student,15,18,9,12,54,84,2.38,3.57,58.41584158,58,0.99009901,0,0,0.99009901,0,0
+R_20NYVsRJfEY5Bwj,Female,34,White,Higher education degree,"Unemployed, not looking for work",12,8,16,4,40,207,1.93,1.93,56.62650602,56.09756098,0.803212851,0.401606426,0,0.401606426,0.401606426,0
+R_20SQP20UrPGqmPr,Female,18,White,Some college,Student,8,7,10,3,28,70,4.29,1.43,64.63414634,64.63414634,0,0,0,0,0,0
+R_216OY0kLBDF8dgR,Female,26,White,Higher education degree,"Unemployed, looking for work",18,17,17,13,65,306,1.96,1.96,55.24691358,54.82866044,0.308641975,0.308641975,0,0.308641975,0,0.308641975
+R_21FCroDE93VNlEl,Female,28,Mixed-raced,Higher education degree,Employed full-time,17,16,18,15,66,196,1.02,1.53,59.62441315,59.43396226,0.469483568,0,0,0,0,0
+R_21snER6IKK8tKq4,Female,35,White,Higher education degree,Employed full-time,11,12,9,8,40,358,2.23,5.03,42.41645244,41.64456233,0.771208226,0.257069409,0.257069409,0,0.257069409,0.257069409
+R_22JkIl3XoTw2UZ1,Male,20,White,Some college,"Unemployed, looking for work",6,5,6,1,18,133,1.50,3.01,69.17808219,68.75,1.369863014,0,0,0.684931507,0.684931507,0
+R_22KSFuHouxnnwky,Female,39,White,Higher education degree,Employed full-time,7,9,11,4,31,273,3.30,2.93,56.0371517,55.20504732,0.92879257,0.619195046,0,0.309597523,0.309597523,0.309597523
+R_22lRLrh6ajfcwJO,Female,22,Middle Eastern,Higher education degree,Student,7,13,5,3,28,210,0.00,0.95,57.98319328,57.80590717,0.420168067,0,0.420168067,0,0,0
+R_22nWzexLWbcXC5z,Female,29,White,College graduate,"Unemployed, not looking for work",11,9,9,3,32,239,0.00,1.26,53.40909091,53.05343511,0.757575758,0,0.378787879,0.378787879,0,0
+R_22sPxe24JKnXWIr,Female,26,Asian,Postgraduate degree,Student,14,15,14,16,59,171,1.75,0.00,58.08080808,58.08080808,0,0,0,0,0,0
+R_241wYX6CResRUBA,Female,23,White,Higher education degree,Employed full-time,11,7,7,7,32,291,2.41,1.72,54.26136364,54.13105413,0,0,0,0,0,0.284090909
+R_24cPodMuYy1DVok,,31,White,Higher education degree,Employed full-time,8,3,5,9,25,113,0.00,2.65,63.86554622,63.55932203,0.840336134,0,0,0,0.840336134,0
+R_24dDz3YjrbEkwye,Female,35,Hispanic,Higher education degree,Employed part-time,9,6,4,5,24,79,0.00,0.00,74.71264368,74.71264368,0,0,0,0,0,0
+R_24FMqvxSqMJo8LB,Female,29,White,Higher education degree,Employed part-time,8,4,11,0,23,318,0.63,0.00,43.76811594,43.76811594,0,0,0,0,0,0
+R_24GJZbyL5H0ta7D,Male,27,White,College graduate,Employed full-time,4,5,10,2,21,225,3.56,0.44,55.41666667,55.41666667,0,0,0,0,0,0
+R_24LZiiZlMg5JiXA,Female,22,White,Some college,Student,9,10,11,8,38,372,0.27,3.49,47.44525547,46.76616915,1.216545012,0,0.243309002,0.243309002,0.243309002,0.486618005
+R_24o3lU7sTDZycJu,Female,23,Mixed-raced,Postgraduate degree,Student,4,10,8,11,33,217,1.38,1.38,58.19672131,57.85123967,0.409836066,0,0.409836066,0,0,0.409836066
+R_24pD4snwsfVM5zT,Female,23,White,Higher education degree,Student,17,11,10,14,52,277,0.72,0.00,46.77419355,46.60194175,0,0.322580645,0,0,0,0
+R_25QTj0fzEDh2f7t,Female,21,White,Some college,Employed part-time,13,6,13,16,48,90,1.11,0.00,70.58823529,70.58823529,0,0,0,0,0,0
+R_268vP4aOyWFWi8V,Female,40,White,Postgraduate degree,Employed full-time,9,8,8,4,29,121,0.00,0.00,51.74825175,51.74825175,0,0,0,0,0,0
+R_279FZSYShaPa749,Female,21,White,Some college,Student,17,10,14,1,42,77,1.30,0.00,57.40740741,57.40740741,0,0,0,0,0,0
+R_27Bjb6yPX9s68AP,Male,19,Mixed-raced,Some college,Student,8,5,4,8,25,55,1.82,5.45,72.58064516,72.58064516,0,0,0,0,0,0
+R_27CfuyVizYYLQZG,Male,22,White,College graduate,"Unemployed, not looking for work",11,14,6,9,40,91,0.00,2.20,67.67676768,67.67676768,0,0,0,0,0,0
+R_27kfDN7YTAUeeAF,Female,19,Mixed-raced,Some college,Student,13,15,9,8,45,135,0.74,0.00,53.7037037,53.7037037,0,0,0,0,0,0
+R_27xwo6HVvgXFVtp,Female,19,Hispanic,Some college,Student,13,14,6,3,36,146,2.05,2.05,60.66666667,59.86394558,0.666666667,0.666666667,0,0.666666667,0,0.666666667
+R_28B5Mn2i7jZMKuM,Female,19,White,Some college,Student,10,13,14,9,46,297,1.35,0.67,47.42857143,47.27793696,0,0.285714286,0,0,0,0
+R_28Bsz0Pv2scxSDF,Female,19,Asian,Higher education degree,"Unemployed, looking for work",9,10,13,1,33,153,1.31,1.31,48.36956522,48.08743169,0.543478261,0,0.543478261,0,0,0
+R_28InBUMN6wj88FE,Female,33,White,Postgraduate degree,"Unemployed, not looking for work",5,5,7,1,18,170,2.94,0.59,59.47368421,59.04255319,0,0.526315789,0,0,0,0.526315789
+R_293VSCggb7lunxt,Female,22,White,Some college,Employed full-time,12,7,7,1,27,165,2.42,1.82,54.94505495,54.94505495,0,0,0,0,0,0
+R_29bJ84oZlC6zjS3,Male,32,Mixed-raced,Higher education degree,Employed full-time,2,6,4,5,17,135,2.96,1.48,65.625,65.40880503,0.625,0,0,0.625,0,0
+R_29iTScsmjiojOqu,Female,31,White,Some college,"Unemployed, looking for work",10,5,11,5,31,73,0.00,0.00,67.39130435,67.39130435,0,0,0,0,0,0
+R_2aaCerIEemG68Ee,Female,18,Mixed-raced,High school graduate,Student,15,14,18,7,54,221,1.36,2.71,53.35820896,53.1835206,0.373134328,0,0.373134328,0,0,0
+R_2aL9Bl4QMpLY20K,Male,34,White,High school graduate,"Unemployed, not looking for work",10,16,11,8,45,140,2.14,3.57,60.66666667,60,2,0.666666667,1.333333333,0,0.666666667,0
+R_2arXAVkiBWvpUEs,Female,28,White,Some college,Employed part-time,15,15,17,12,59,298,1.01,0.34,51.68195719,51.68195719,0,0,0,0,0,0
+R_2aWd0lGD3NbaSRy,Female,28,White,Postgraduate degree,Employed full-time,7,5,5,4,21,240,0.83,1.25,47.01492537,47.01492537,0,0,0,0,0,0
+R_2b2bvvAGDuuhmJl,Female,22,White,Less than high school,"Unemployed, not looking for work",10,14,12,5,41,54,3.70,0.00,69.01408451,69.01408451,0,0,0,0,0,0
+R_2B3fvi3cprifi44,Female,30,White,Postgraduate degree,Employed full-time,5,5,4,0,14,141,0.00,0.00,26.77595628,26.77595628,0,0,0,0,0,0
+R_2BeMljs6rczzPdT,Female,25,Asian,College graduate,Employed full-time,14,16,14,6,50,136,2.94,0.74,59.23566879,58.97435897,0.636942675,0,0,0,0,0
+R_2BfBdG4B0g89kR6,Male,18,Mixed-raced,High school graduate,Employed part-time,13,10,10,14,47,62,0.00,0.00,64,64,0,0,0,0,0,0
+R_2bOkf9UnmK7lPOd,Female,32,White,Postgraduate degree,Employed full-time,13,13,17,9,52,118,2.54,3.39,66.1971831,65.95744681,0.704225352,0,0.704225352,0,0,0
+R_2bVNWm1wPAdcE8J,Female,20,Hispanic,High school graduate,Student,15,14,8,14,51,83,1.20,0.00,58.82352941,58.82352941,0,0,0,0,0,0
+R_2c0YfXH0sFiSa8C,Female,26,White,Some college,"Unemployed, not looking for work",10,8,10,4,32,148,3.38,5.41,58.42696629,58.47953216,1.685393258,0,1.123595506,0.561797753,0,0.561797753
+R_2cB0eU4BT7bXlWa,Female,34,Hispanic,Some college,Employed full-time,15,13,15,13,56,139,0.72,0.00,32.41758242,32.41758242,0,0,0,0,0,0
+R_2cBGU6KRXOTfrqZ,Male,19,White,High school graduate,Student,4,3,4,4,15,216,4.63,0.93,54.06504065,53.49794239,0,1.219512195,0,0,0,0
+R_2CCJfUgylCK3IvE,Male,18,Black,Less than high school,Student,11,11,6,2,30,121,1.65,0.83,61.48148148,60.90225564,0,0.740740741,0,0,0,0.740740741
+R_2COiIQ9dEheQjhk,Female,26,White,College graduate,Employed full-time,5,8,6,5,24,250,0.00,0.00,38.0952381,38.0952381,0,0,0,0,0,0
+R_2dBa95Nw9lcaI1o,Female,28,White,College graduate,Student,9,6,10,5,30,81,3.70,0.00,71.57894737,71.27659574,0,1.052631579,0,0,0,0
+R_2EbgohYbJjU5lR2,Female,18,White,High school graduate,Employed part-time,16,13,17,14,60,150,2.67,0.00,58.86075949,58.59872611,0,0.632911392,0,0,0,0
+R_2EhFhMTWtSCTgi8,Female,22,Black,Some college,Employed full-time,11,9,3,1,24,81,3.70,2.47,69.07216495,68.42105263,1.030927835,1.030927835,0,0,1.030927835,0
+R_2eXUWdQAtv7A9nv,Female,22,White,Postgraduate degree,Employed part-time,18,16,18,17,69,69,1.45,0.00,71.23287671,71.23287671,0,0,0,0,0,0
+R_2fIhz2EEniHTmxT,Female,23,White,High school graduate,Student,7,10,8,3,28,251,1.99,1.20,56.45756458,56.2962963,0,0,0,0,0,0.36900369
+R_2lbiKjrFHCKYOtz,Male,22,White,High school graduate,"Unemployed, not looking for work",11,13,11,3,38,335,3.58,0.90,49.72527473,49.58677686,0.274725275,0,0.274725275,0,0,0
+R_2P29jBSGFugOHDF,Female,24,White,Higher education degree,Employed full-time,5,13,8,6,32,201,0.50,1.00,59.17431193,59.17431193,0,0,0,0,0,0
+R_2pKcJMyTuRe2GUW,Female,18,Asian,High school graduate,Student,10,10,5,2,27,213,0.47,1.41,55.89519651,55.89519651,0,0,0,0,0,0
+R_2q93SBkchrk0ctv,Female,19,White,Some college,Employed full-time,13,13,11,14,51,305,2.62,3.28,48.59813084,47.78481013,1.246105919,0,0.31152648,0.31152648,0.31152648,0.31152648
+R_2qaSKRNSsIGvSh4,Female,36,Asian,Postgraduate degree,Employed full-time,7,5,8,0,20,66,6.06,1.52,57.77777778,56.81818182,1.111111111,1.111111111,1.111111111,0,0,0
+R_2qemSrRoskzIJZP,Male,35,White,Some college,"Unemployed, not looking for work",5,3,7,4,19,358,1.40,0.00,49.13580247,49.13580247,0,0,0,0,0,0
+R_2QErcxtV02T2FO0,Non-binary,18,White,Some college,"Unemployed, not looking for work",11,7,3,9,30,179,3.91,1.12,53.14009662,53.14009662,0,0,0,0,0,0
+R_2QQn9dx3TZwKXv4,Male,30,White,Higher education degree,Employed full-time,14,16,8,9,47,123,1.63,0.00,59.28571429,59.28571429,0,0,0,0,0,0
+R_2QXKZ7dMllgj3Yv,Male,30,White,Some college,Employed part-time,2,4,4,6,16,125,4.80,0.80,71.32352941,71.11111111,0,0.735294118,0,0,0,0
+R_2QzEsnshav93khg,Male,25,White,Some college,Employed full-time,1,1,2,0,4,54,1.85,3.70,72.05882353,71.64179104,0,1.470588235,0,0,0,0
+R_2roqlArP9qCnTgG,Male,21,Black,Some college,"Unemployed, not looking for work",10,5,5,11,31,346,2.89,3.47,53.91061453,53.67231638,0.279329609,0.279329609,0,0,0.279329609,0.279329609
+R_2rwPGbmx9TFHcPO,Female,62,White,Higher education degree,"Unemployed, not looking for work",4,7,3,0,14,104,1.92,0.96,67.76859504,67.76859504,0,0,0,0,0,0
+R_2rZvEQU9bKJEcqv,Female,25,White,College graduate,Employed part-time,9,13,8,1,31,65,0.00,0.00,65.78947368,65.78947368,0,0,0,0,0,0
+R_2S1Cj3QSWSxSnPD,Female,26,White,College graduate,Employed full-time,8,11,9,5,33,212,1.89,0.94,49.79253112,49.15966387,0.414937759,0.414937759,0,0,0.414937759,0.414937759
+R_2s1Ph5Py5guWtIl,Non-binary,18,Mixed-raced,High school graduate,"Unemployed, not looking for work",13,17,9,7,46,202,5.45,0.50,59.82532751,59.11111111,0,1.310043668,0,0,0,0
+R_2s6zyHyY8ptcam8,Male,34,White,College graduate,Employed full-time,11,5,10,9,35,384,1.82,4.17,54.40180587,53.98633257,0.451467269,0.225733634,0.451467269,0,0,0.225733634
+R_2S7YDIsx5XJDzxg,Male,46,White,Postgraduate degree,Employed full-time,6,8,2,1,17,111,0.00,0.00,54.26356589,54.26356589,0,0,0,0,0,0
+R_2SeF1NFUjh0K0zh,Female,22,Hispanic,Higher education degree,Student,6,8,4,3,21,250,1.60,0.80,49.11032028,48.92857143,0,0.355871886,0,0,0,0
+R_2SGhiA2WxjwP4Av,Male,26,White,Higher education degree,Employed full-time,5,6,4,1,16,249,2.01,0.00,52.4822695,52.4822695,0,0,0,0,0,0
+R_2SGNMKxCdvppnys,Female,22,White,High school graduate,"Unemployed, not looking for work",11,10,9,5,35,149,1.34,0.00,52.40963855,52.12121212,0,0.602409639,0,0,0,0
+R_2tGbHSUGWOycYqJ,Female,25,White,Some college,Employed full-time,12,8,7,5,32,86,1.16,0.00,68.08510638,68.08510638,0,0,0,0,0,0
+R_2TI4sDGmGQVcEzD,Female,64,,College graduate,Retired,2,1,7,1,11,186,0.54,0.54,57.0754717,57.0754717,0,0,0,0,0,0
+R_2tLSJwAmzI12Im8,Female,18,White,High school graduate,"Unemployed, not looking for work",9,11,6,9,35,200,1.50,1.50,51.37614679,50.92592593,0,0.458715596,0,0,0,0.458715596
+R_2TLsYGjQRjQU91H,Male,18,White,Less than high school,Employed part-time,15,16,18,12,61,276,1.81,2.54,57.66666667,57.52508361,0.333333333,0,0,0,0,0
+R_2tnkXlXFmOGui4I,Female,18,Hispanic,High school graduate,"Unemployed, looking for work",13,14,15,9,51,74,1.35,0.00,72.09302326,72.09302326,0,0,0,0,0,0
+R_2TnpcEWHLfrNnPH,Female,20,White,Some college,Employed part-time,4,4,3,4,15,194,1.55,0.52,57.07317073,56.8627451,0.487804878,0,0,0,0.487804878,0
+R_2tybAQOSEGIbJWC,Female,46,White,Higher education degree,Retired,4,5,8,1,18,62,1.61,1.61,62.16216216,62.16216216,0,0,0,0,0,0
+R_2Uab9N1mXG3otdV,Female,18,White,High school graduate,Employed part-time,11,11,8,1,31,88,0.00,0.00,67.34693878,67.34693878,0,0,0,0,0,0
+R_2uE4m7dErqreiEs,Female,20,White,Some college,Student,14,15,12,14,55,128,2.34,0.00,58.57142857,58.57142857,0,0,0,0,0,0
+R_2uV3CXsICIk16GL,Male,22,White,Some college,Student,3,7,5,4,19,342,1.17,0.00,49.87080103,49.87080103,0,0,0,0,0,0
+R_2UVBKSsRv6Kxy3O,Male,24,White,Higher education degree,Employed part-time,9,15,9,8,41,235,3.40,0.43,59.07335907,58.91472868,0,0.386100386,0,0,0,0
+R_2UW79TLLHvLBlT6,Male,26,White,Higher education degree,Employed full-time,17,14,14,12,57,113,3.54,1.77,58.08823529,57.46268657,0.735294118,0.735294118,0.735294118,0,0,0
+R_2uZZOhtmj4YH4pe,Female,20,White,High school graduate,Self-employed,13,14,11,6,44,197,1.52,0.00,49.14529915,49.14529915,0,0,0,0,0,0
+R_2v7dZ4jpeZjgi0W,Female,42,White,Postgraduate degree,Self-employed,13,12,9,8,42,221,4.52,0.45,54.27350427,53.87931034,0,0.854700855,0,0,0,0
+R_2VaKP2LuSx6jOGz,Female,31,White,College graduate,Employed full-time,10,10,10,7,37,337,4.45,0.59,50.14005602,50.14005602,0,0,0,0,0,0
+R_2vkSZzvF4eJQU88,Female,18,Asian,Some college,Student,15,15,7,8,45,232,0.43,0.00,51.00401606,51.00401606,0,0,0,0,0,0
+R_2VlG6Tcbh7rIYxS,Female,19,White,High school graduate,Employed full-time,14,13,13,11,51,140,2.14,2.14,50.30674847,50,0,0,0,0,0,0.613496933
+R_2vlk14wdqgvVeCU,Female,19,White,High school graduate,Student,8,12,7,8,35,207,0.48,0.00,56.96202532,56.96202532,0,0,0,0,0,0
+R_2Vr0G4AlhzxZyMb,Female,20,White,High school graduate,Student,13,13,4,13,43,263,4.94,2.28,55.01730104,53.76344086,1.038062284,1.384083045,0.346020761,0.346020761,0.346020761,0.692041522
+R_2VxMMbx7zOgGKfJ,Female,27,White,Higher education degree,Employed full-time,6,9,11,9,35,186,1.08,0.00,54.5045045,54.5045045,0,0,0,0,0,0
+R_2Vyi6psszg6LVIs,Male,19,White,High school graduate,Student,4,7,5,1,17,179,0.00,0.56,49.76744186,49.53271028,0.465116279,0,0.465116279,0,0,0
+R_2wbj8a5wHSa0iy2,Female,22,White,Some college,Employed part-time,15,16,13,15,59,237,1.27,2.53,51.67286245,51.31086142,0.743494424,0,0.371747212,0.371747212,0,0
+R_2wcOqrPyqqjB1Gi,Female,18,Mixed-raced,High school graduate,"Unemployed, looking for work",18,12,15,12,57,227,0.00,1.32,47.34693878,46.91358025,0.408163265,0,0,0,0.408163265,0.408163265
+R_2WGpamjC3DOHfa8,Female,19,White,High school graduate,Employed part-time,15,14,15,13,57,193,2.59,5.18,60.09615385,59.11330049,1.923076923,0.480769231,0,0.480769231,0.961538462,0
+R_2wNoPOkf9vO6HSH,Male,27,White,Higher education degree,Employed full-time,3,6,5,4,18,165,0.61,0.00,59.1160221,59.1160221,0,0,0,0,0,0
+R_2WOHRObD37FkTXs,Female,37,White,Higher education degree,Employed full-time,11,15,14,12,52,312,2.24,1.60,47.42857143,46.82080925,0.571428571,0.285714286,0.285714286,0,0.285714286,0.285714286
+R_2wSI6wIhhKHrxhg,Female,23,White,Higher education degree,Employed full-time,7,12,7,5,31,114,0.00,0.00,56.34920635,56.34920635,0,0,0,0,0,0
+R_2XboF0sATVllGyn,Non-binary,26,White,Some college,Employed part-time,15,3,5,3,26,328,2.44,1.52,53.08988764,52.97450425,0,0,0,0,0,0.280898876
+R_2xKURJcQBU1Vhnb,Female,21,White,High school graduate,"Unemployed, not looking for work",8,12,11,0,31,78,0.00,0.00,62.88659794,62.88659794,0,0,0,0,0,0
+R_2xUW3Eybqt37ELM,Female,21,White,Higher education degree,Student,2,8,11,4,25,103,0.97,0.97,53.04347826,53.04347826,0,0,0,0,0,0
+R_2Y3UtGRWzId0yDs,Female,23,Hispanic,Higher education degree,"Unemployed, looking for work",9,7,5,3,24,157,1.27,0.64,51.39664804,51.12359551,0.558659218,0,0,0,0.558659218,0
+R_2Y4b4sZZm4oQqdw,Female,29,White,High school graduate,Employed full-time,14,15,9,17,55,483,1.24,3.11,38.26923077,37.76908023,0.192307692,0,0.192307692,0,0,0.576923077
+R_2Y9Xu2qEy5OyWAz,Male,24,White,College graduate,"Unemployed, not looking for work",6,3,11,2,22,107,2.80,0.00,68.06722689,68.06722689,0,0,0,0,0,0
+R_2YeN65EScFtN0fq,Male,33,White,Some college,Employed part-time,5,5,6,8,24,152,3.95,0.00,60.23391813,60,0,0.584795322,0,0,0,0
+R_2yf1oFKOQ4yVkgm,Male,31,White,High school graduate,"Unemployed, not looking for work",16,18,17,17,68,127,4.72,1.57,69.3877551,69.17808219,0,0.680272109,0,0,0,0
+R_2yfQTwfZySxV9r9,Female,58,,Higher education degree,Employed full-time,12,10,8,4,34,75,1.33,4.00,69.89247312,69.23076923,1.075268817,1.075268817,0,0,1.075268817,0
+R_2Yhz0MhUd8Midk7,Female,20,White,Less than high school,"Unemployed, not looking for work",11,13,12,3,39,59,6.78,0.00,72.30769231,72.30769231,0,0,0,0,0,0
+R_2YlkK7kULUah3Mm,Female,18,White,Some college,Employed part-time,,,,,,168,2.98,0.00,38.19095477,38.19095477,0,0,0,0,0,0
+R_2Ym4oHIX6ic1jdY,Male,24,,Postgraduate degree,Employed full-time,7,10,9,2,28,157,0.64,0.00,55,55,0,0,0,0,0,0
+R_2YWABc74e1qspqk,Non-binary,19,White,Some college,Student,14,9,9,9,41,288,0.69,0.35,46.27329193,46.27329193,0,0,0,0,0,0
+R_2Yxjj60HLEbUJWC,Male,23,White,College graduate,Student,4,2,10,2,18,278,0.72,0.00,55.33980583,55.33980583,0,0,0,0,0,0
+R_2YySYj0DiXzdg6Y,Female,30,White,Higher education degree,Employed full-time,12,8,12,5,37,88,1.14,1.14,59.82905983,59.82905983,0,0,0,0,0,0
+R_2YzvdwZMI31pAg0,Female,28,White,High school graduate,"Unemployed, not looking for work",15,12,8,14,49,55,5.45,0.00,75,75,0,0,0,0,0,0
+R_2zGfdgjr2dhFbOq,Female,23,White,Higher education degree,Employed full-time,13,17,12,5,47,195,0.51,8.72,54.59183673,55.0802139,2.040816327,0,0.510204082,1.020408163,0.510204082,0
+R_2zImTWpIGVr93UO,Female,21,White,High school graduate,Student,16,12,16,9,53,56,0.00,0.00,61.76470588,61.76470588,0,0,0,0,0,0
+R_2zLOwoLvIrUlU1x,Female,22,White,High school graduate,Employed part-time,14,13,16,6,49,239,4.18,2.93,52.72727273,52.20588235,0.727272727,0.363636364,0,0.363636364,0.363636364,0
+R_2zqA84qkCXU94DY,Male,20,White,High school graduate,Student,10,9,6,7,32,177,2.82,0.56,58.67346939,58.03108808,0.510204082,1.020408163,0.510204082,0,0,0
+R_2zwnrAcqgDmlUUB,Female,23,White,Some college,Employed part-time,15,12,9,3,39,249,2.41,6.83,52.76752768,52.45283019,1.47601476,0,0.73800738,0.36900369,0.36900369,0
+R_307Ca7g8LMY6Ny0,Female,22,Hispanic,Some college,Student,8,14,11,2,35,86,0.00,1.16,46.15384615,46.15384615,0,0,0,0,0,0
+R_31bfhXThaCcwbJ4,Female,28,Mixed-raced,Some college,Student,8,15,11,4,38,194,3.09,0.00,55.45454545,55.45454545,0,0,0,0,0,0
+R_31GwDrWOIK6B6a1,Male,22,White,High school graduate,Self-employed,16,18,17,14,65,148,1.35,2.03,66.86746988,66.66666667,0,0,0,0,0,0.602409639
+R_31NxmwEfONpIrUa,Female,23,Hispanic,Postgraduate degree,Student,16,11,16,9,52,302,2.65,0.00,50.75075075,50.45317221,0,0.600600601,0,0,0,0
+R_331l5LixKBJ291o,Female,27,White,Some college,"Unemployed, looking for work",9,,14,7,,59,3.39,1.69,68.05555556,68.05555556,0,0,0,0,0,0
+R_33jp2dAwnpiWssE,Female,35,White,College graduate,Employed full-time,18,15,12,6,51,135,0.74,8.89,54.83870968,53.33333333,2.580645161,0,0.64516129,1.290322581,0.64516129,0.64516129
+R_38ATA4emGTvr5DP,Female,23,White,Higher education degree,Employed full-time,12,16,15,7,50,330,1.52,2.12,48.19944598,47.17514124,1.108033241,0.27700831,0.27700831,0.27700831,0.55401662,0.55401662
+R_39QeSV7JPc2YtJn,Female,29,White,College graduate,Employed full-time,12,10,9,2,33,224,0.89,0.00,44.44444444,44.44444444,0,0,0,0,0,0
+R_3CK0hP0CyyibLBG,Female,27,Middle Eastern,Postgraduate degree,Student,9,13,6,8,36,114,1.75,0.88,64.56692913,64.28571429,0.787401575,0,0,0,0.787401575,0
+R_3CN1GlZ2pXi6U6Q,Female,21,White,Some college,Student,12,16,6,9,43,356,1.40,1.40,53.33333333,53.21336761,0.256410256,0,0,0.256410256,0,0
+R_3COUtwWzJE3fu70,Female,22,White,Some college,Student,9,7,7,9,32,207,0.97,0.00,53.16455696,53.16455696,0,0,0,0,0,0
+R_3DdpIoOllK8JgRK,Female,45,Black,College graduate,"Unemployed, not looking for work",13,12,14,14,53,186,1.08,1.08,52.28426396,52.28426396,0,0,0,0,0,0
+R_3DqIgzArSy2mH7g,Female,27,White,College graduate,Employed full-time,10,7,11,0,28,265,2.26,2.26,43.45047923,42.53246753,0.319488818,0.638977636,0.319488818,0,0,0.638977636
+R_3EDXgvVlrl3ndYF,Non-binary,28,White,Higher education degree,Employed part-time,15,16,7,6,44,376,1.60,2.66,45.83333333,45.52238806,0.735294118,0.245098039,0.245098039,0.245098039,0.245098039,0
+R_3Eg7bu9nn5Aih6T,Male,29,Mixed-raced,Some college,Employed full-time,3,9,3,0,15,87,2.30,2.30,77.27272727,77.01149425,1.136363636,0,0,0,1.136363636,0
+R_3EiO2mnqorK735g,Female,24,Mixed-raced,High school graduate,Employed part-time,16,13,12,6,47,117,3.42,3.42,65.33333333,64.62585034,0.666666667,0.666666667,0.666666667,0,0,0.666666667
+R_3EmVGUUkVee0onv,Female,21,White,Higher education degree,Student,15,13,15,8,51,126,3.17,1.59,61.0738255,60.54421769,0.67114094,0.67114094,0.67114094,0,0,0
+R_3erSZY6VJaXg5S4,Female,19,Asian,High school graduate,Student,9,11,10,7,37,185,1.08,1.62,55.14018692,54.50236967,0.934579439,0,0.934579439,0,0,0
+R_3EXeOxsUTHHuRMv,Female,25,Asian,Higher education degree,Employed full-time,10,10,11,3,34,146,0.00,0.00,61.53846154,61.53846154,0,0,0,0,0,0
+R_3ezCTWd7Jvkzc1A,Female,31,White,Postgraduate degree,Employed full-time,11,3,0,2,16,132,1.52,0.76,62.5,62.5,0,0,0,0,0,0
+R_3ezqEyzn7JEU4jB,Male,23,White,Higher education degree,Student,2,7,7,6,22,202,0.50,0.50,49.21259843,49.01185771,0,0.393700787,0,0,0,0
+R_3F3U8rCAn8GDnd9,Male,23,White,College graduate,Employed full-time,7,11,11,7,36,86,8.14,0.00,15.625,15.625,0,0,0,0,0,0
+R_3fAyzcqVTUmgIsj,Male,19,Mixed-raced,Some college,Student,3,7,5,0,15,379,1.32,0.53,35.93380615,35.93380615,0,0,0,0,0,0
+R_3fJJXokN4wENNw9,Female,31,White,Postgraduate degree,Employed full-time,12,5,8,9,34,249,2.01,0.80,60.97560976,60.83916084,0,0,0,0,0,0.348432056
+R_3FKIOZVTHjsxi8k,Female,26,White,Postgraduate degree,Employed full-time,12,7,11,1,31,303,0.99,0.99,46.41833811,46.39769452,0.286532951,0,0,0,0.286532951,0
+R_3fOGnXH5ONllLI1,Female,22,White,High school graduate,Student,7,9,8,2,26,268,2.99,1.12,56.25,56.09756098,0,0,0,0,0,0.347222222
+R_3fquaTzPZmMRIsk,Male,23,White,Higher education degree,Student,7,14,10,1,32,79,1.27,0.00,68.96551724,68.96551724,0,0,0,0,0,0
+R_3fW5xiyIFzFPZY4,Male,19,White,High school graduate,Student,6,3,5,11,25,79,1.27,1.27,61.62790698,61.17647059,0,1.162790698,0,0,0,0
+R_3fZhxKfBovJ3y9N,Female,18,Asian,High school graduate,Student,15,13,11,15,54,253,2.77,1.58,53.33333333,53.00353357,0.701754386,0,0,0.701754386,0,0
+R_3g28gFCpIcUKTFY,Male,20,White,Some college,Student,12,15,11,2,40,240,0.83,0.00,50.95057034,50.95057034,0,0,0,0,0,0
+R_3g5Df29PhDNq0py,Female,26,Black,College graduate,Self-employed,10,12,16,6,44,126,3.17,5.56,64.02877698,63.23529412,0.71942446,0.71942446,0.71942446,0,0,0.71942446
+R_3GDMAaTweGcJORG,Female,27,White,Postgraduate degree,Student,5,10,,0,,210,0.95,1.90,57.35849057,57.03422053,0.754716981,0,0.754716981,0,0,0
+R_3gZegfF5A1isgTd,Female,22,White,College graduate,Student,10,10,9,4,33,216,0.93,0.46,58.18965517,58.00865801,0.431034483,0,0.431034483,0,0,0
+R_3h5XLhVkM3h8Ixp,Female,19,White,Some college,Student,9,17,16,5,47,149,2.68,3.36,62.79069767,61.9047619,1.162790698,0.581395349,0.581395349,0.581395349,0,0.581395349
+R_3hDR6vMv87wBjri,Female,26,White,Some college,Employed full-time,6,7,2,14,29,241,2.49,1.24,55.38461538,55.38461538,0,0,0,0,0,0
+R_3HuxVM4BaRNDRAc,Female,30,White,College graduate,Student,16,17,16,13,62,79,2.53,1.27,65.93406593,65.93406593,0,0,0,0,0,0
+R_3HXozGxOEsOloqn,Female,37,White,Higher education degree,"Unemployed, looking for work",12,17,15,6,50,192,1.56,4.69,55.60538117,55.20361991,0.448430493,0,0.448430493,0,0,0.448430493
+R_3hxpt1SEhjnTWyV,Female,42,White,Some college,Employed part-time,10,11,11,3,35,103,3.88,4.85,79.61165049,79,1.941747573,0,1.941747573,0,0,0.970873786
+R_3I50ZDEiQxbecgV,Female,30,White,Some college,"Unemployed, not looking for work",9,4,8,10,31,177,2.82,1.13,59.42028986,59.22330097,0.483091787,0,0,0,0.483091787,0
+R_3iEJ1XgwhvK3xXM,Female,18,White,Some college,Student,5,6,11,7,29,162,0.62,0.62,62.5698324,62.5698324,0,0,0,0,0,0
+R_3iRqYLccsDWpsQL,Male,18,White,High school graduate,"Unemployed, looking for work",13,15,9,5,42,56,3.57,1.79,73.01587302,73.01587302,0,0,0,0,0,0
+R_3ITf0dbjwKxvA01,Female,24,White,Some college,Employed full-time,5,7,6,7,25,190,1.05,0.00,45.70135747,45.70135747,0,0,0,0,0,0
+R_3iwKpfV4KRu5daN,Male,23,White,College graduate,Student,13,16,5,4,38,336,3.87,1.19,49.6,49.32975871,0,0.533333333,0,0,0,0
+R_3iyRdLtQZmQ1cKi,Female,25,Mixed-raced,College graduate,Employed full-time,11,17,13,7,48,161,3.11,0.00,56.4516129,56.21621622,0,0.537634409,0,0,0,0
+R_3j1Hip526a2n37b,Male,37,White,College graduate,"Unemployed, looking for work",10,7,9,10,36,123,5.69,3.25,71.53846154,71.31782946,0,0,0,0,0,0.769230769
+R_3J3CnhNDt2wuRQq,Female,27,White,Some college,Employed full-time,5,14,10,1,30,198,3.03,1.52,53.15315315,52.72727273,0.45045045,0.45045045,0.45045045,0,0,0
+R_3j8ahB5RRXCIhR7,Female,18,White,High school graduate,Student,3,1,3,6,13,354,4.80,1.69,52.63157895,52.27272727,0.501253133,0.250626566,0.250626566,0,0.250626566,0
+R_3J93piMT3zyl3ok,Female,20,Hispanic,Some college,Student,12,10,6,10,38,209,2.39,0.48,52.56410256,52.56410256,0,0,0,0,0,0
+R_3jcJpeY2IpqOybl,Male,18,Asian,High school graduate,Student,11,13,10,8,42,1068,1.31,4.03,34.81481481,34.39065109,0.411522634,0.082304527,0.082304527,0.164609053,0.082304527,0.411522634
+R_3jdIxuoxzwfLtka,Female,24,White,Higher education degree,Employed part-time,13,14,7,6,40,226,1.33,0.44,54.94071146,54.94071146,0,0,0,0,0,0
+R_3JejnVxwHKHXLUI,Female,30,White,Some college,Employed full-time,15,11,,9,,246,2.85,0.00,54.80427046,54.80427046,0,0,0,0,0,0
+R_3JkNaj9fiA756lE,Male,18,White,High school graduate,"Unemployed, not looking for work",7,8,5,5,25,53,1.89,5.66,72.05882353,72.05882353,0,0,0,0,0,0
+R_3JmSVM5RDPiHjqN,Female,45,Mixed-raced,Higher education degree,"Unemployed, not looking for work",11,13,8,5,37,128,0.78,5.47,65.33333333,64.38356164,2.666666667,0,2,0.666666667,0,0
+R_3JsLDu12nGjbeFZ,Female,22,White,Postgraduate degree,Employed full-time,8,10,5,11,34,298,3.36,1.34,51.94029851,51.35951662,0.298507463,0.597014925,0,0,0.298507463,0.298507463
+R_3Jtkry86LIDvlch,Female,26,White,Some college,"Unemployed, not looking for work",13,10,7,10,40,225,3.56,0.44,53.1496063,52.96442688,0.393700787,0,0,0.393700787,0,0
+R_3kFyd9KsFBnPLdn,Male,25,White,Higher education degree,Employed part-time,9,4,13,12,38,128,0.78,1.56,58.33333333,57.74647887,0.694444444,0.694444444,0.694444444,0,0,0
+R_3kiANzl1z8Vurvm,Female,22,Mixed-raced,College graduate,"Unemployed, looking for work",13,11,14,3,41,315,0.63,0.00,40.47619048,40.29850746,0,0.297619048,0,0,0,0
+R_3kOfExGWEpBLe09,Male,18,White,High school graduate,"Unemployed, not looking for work",14,8,8,12,42,148,2.70,0.68,61.2716763,60.81871345,0.578034682,0.578034682,0.578034682,0,0,0
+R_3KT8kKtqSX3OjZH,Female,51,White,College graduate,Employed full-time,1,3,5,1,10,53,1.89,0.00,63.38028169,63.38028169,0,0,0,0,0,0
+R_3kwjNZv7P7MHlze,,35,Mixed-raced,Some college,Employed part-time,7,5,6,1,19,316,2.53,0.32,52.26586103,52.12121212,0,0.302114804,0,0,0,0
+R_3KwlAW9A5YGbLvH,Male,29,Hispanic,Higher education degree,"Unemployed, not looking for work",8,9,8,4,29,180,1.67,2.22,55.05050505,54.87179487,0.505050505,0,0,0,0.505050505,0.505050505
+R_3LkkiyCff2Ufm1K,Male,28,White,Some college,"Unemployed, not looking for work",13,12,10,6,41,204,2.94,3.43,51.00401606,50.81300813,0.803212851,0,0.803212851,0,0,0
+R_3lRAeBTuZ7BINyx,Female,38,Mixed-raced,Postgraduate degree,Self-employed,7,4,1,3,15,82,3.66,1.22,67.79661017,67.79661017,0,0,0,0,0,0
+R_3M3Y8qgBRsPapEZ,Female,32,White,College graduate,Student,15,10,14,8,47,265,1.89,0.75,52.46478873,52.29681979,0.352112676,0,0,0,0.352112676,0
+R_3MJrwXauapFEpHE,Female,24,White,Less than high school,"Unemployed, not looking for work",4,2,11,1,18,139,1.44,0.00,64.82758621,64.82758621,0,0,0,0,0,0
+R_3MuGMOlMxjN4cLM,Female,18,White,High school graduate,Student,5,7,4,2,18,82,0.00,0.00,75.55555556,75.55555556,0,0,0,0,0,0
+R_3n6jbVcFPTNdwFb,Female,18,White,High school graduate,Employed part-time,11,18,11,7,47,215,2.79,0.47,54.62184874,54.43037975,0,0.420168067,0,0,0,0
+R_3nSC9mbq79m9SXH,Female,27,White,College graduate,Self-employed,16,12,15,9,52,56,0.00,0.00,80,80,0,0,0,0,0,0
+R_3O0mPTnha02XffW,Female,19,White,High school graduate,"Unemployed, looking for work",16,17,14,13,60,130,0.77,3.08,72.26277372,72.05882353,0.729927007,0,0,0,0.729927007,0
+R_3oHpDpUWrbkEAEb,Female,38,White,Postgraduate degree,Employed full-time,3,5,7,7,22,59,6.78,1.69,62.92134831,61.62790698,0,3.370786517,0,0,0,0
+R_3Op29Pk9yUPR0Cg,Female,29,White,Postgraduate degree,Student,3,4,4,1,12,368,3.80,1.63,53.56265356,53,0.491400491,0.737100737,0,0.491400491,0,0
+R_3PdTnjsS2mmTCcl,Male,44,White,Higher education degree,"Unemployed, not looking for work",14,13,11,6,44,147,1.36,2.04,54.06976744,54.06976744,0,0,0,0,0,0
+R_3PLfCQFoQ1IEzeW,Female,25,Asian,Higher education degree,Employed full-time,10,11,9,4,34,252,3.17,2.38,45.8041958,45.42253521,0.699300699,0,0.34965035,0.34965035,0,0
+R_3QFy7FWGb25Ejiw,Female,57,White,High school graduate,"Unemployed, looking for work",11,8,8,6,33,123,0.00,0.00,61.19402985,61.19402985,0,0,0,0,0,0
+R_3QJMSY9rdmi48ph,Female,28,White,Some college,Student,14,13,15,11,53,161,1.86,0.62,58.04597701,57.55813953,0,1.149425287,0,0,0,0
+R_3R4UVClxrHFusts,Female,18,Mixed-raced,High school graduate,Student,9,16,17,3,45,65,4.62,7.69,61.9047619,60.49382716,1.19047619,1.19047619,0,0,1.19047619,1.19047619
+R_3RgU9AHFwA6JB8m,Female,32,Asian,Postgraduate degree,Employed full-time,1,8,5,13,27,345,0.58,4.06,46.45669291,45.86666667,0.787401575,0.262467192,0.262467192,0.262467192,0,0.262467192
+R_3rHs30evt9GTZh0,Female,24,White,Some college,Employed full-time,8,5,8,5,26,121,2.48,0.00,58.33333333,58.33333333,0,0,0,0,0,0
+R_3Rk2rHswiJDBmy7,Female,44,White,Some college,Employed full-time,8,6,3,4,21,167,0.60,0.60,56.28140704,56.06060606,0.502512563,0,0.502512563,0,0,0
+R_3xziycyVXOR2BYl,Female,20,White,College graduate,"Unemployed, not looking for work",18,12,16,12,58,604,2.65,1.99,43.75917768,43.42688331,0.146842878,0.293685756,0,0.146842878,0,0
+R_4OWqxT4MWQyV44h,Female,19,White,Higher education degree,"Unemployed, looking for work",7,9,7,5,28,210,0.00,0.95,51.07296137,51.07296137,0,0,0,0,0,0
+R_56CMskMpZGdoSFr,Female,19,Mixed-raced,High school graduate,Student,8,4,12,2,26,53,3.77,0.00,67.69230769,67.69230769,0,0,0,0,0,0
+R_6gqO73hqtK5DdYt,Female,19,White,Some college,Employed part-time,6,11,10,4,31,139,0.72,2.88,58.16993464,57.33333333,1.960784314,0,0,0.653594771,1.307189542,0
+R_6rKztPYKUraGsW5,Female,24,White,Higher education degree,Employed full-time,6,10,10,1,27,137,2.19,1.46,59.33333333,59.06040268,0.666666667,0,0,0,0.666666667,0
+R_6tXAek4Dxa230EV,Male,18,White,High school graduate,"Unemployed, not looking for work",14,10,14,3,41,119,3.36,0.00,62.5,62.20472441,0,0.78125,0,0,0,0
+R_6u25YrOGoFpfSQ9,Female,47,White,Higher education degree,Employed full-time,11,8,9,2,30,174,4.02,1.72,62.10526316,61.70212766,0.526315789,0.526315789,0,0,0,0
+R_73ag78CtkBmMD4t,Female,23,White,High school graduate,Student,6,11,12,2,31,232,1.29,1.72,43.56060606,42.91187739,0.757575758,0.378787879,0.757575758,0,0,0
+R_8075DGL4Mmuhj6p,Male,18,Mixed-raced,High school graduate,"Unemployed, not looking for work",10,9,5,2,26,183,0.55,1.09,60.62176166,60.62176166,0,0,0,0,0,0
+R_8AlFOK13WzRHLO1,Female,29,Hispanic,Some college,Employed full-time,3,4,5,3,15,69,1.45,0.00,72.94117647,72.94117647,0,0,0,0,0,0
+R_8fcOoh6fPjLIpDH,Female,19,White,High school graduate,Student,17,9,10,13,49,230,1.30,1.74,51.06382979,50.85470085,0.425531915,0,0,0.425531915,0,0
+R_9Ho3v2Mxc9hg7GV,Female,22,Hispanic,College graduate,"Unemployed, not looking for work",16,11,11,,,255,3.53,1.57,51.28205128,51.10294118,0.366300366,0,0.366300366,0,0,0
+R_9n0JLlFVoNVjgbL,Male,31,White,Some college,"Unemployed, not looking for work",8,7,15,8,38,155,1.29,0.65,53.89221557,53.89221557,0,0,0,0,0,0
+R_9TVoe1zV64crlvP,Male,35,White,College graduate,"Unemployed, not looking for work",10,10,10,4,34,182,2.20,1.10,54.5,54.5,0,0,0,0,0,0
+R_9uAIqT6MA2E2nst,Male,27,White,Some college,Student,17,15,10,15,57,135,0.74,1.48,61.58536585,61.34969325,0,0.609756098,0,0,0,0
+R_9Z8nIVJwLh12pLb,Female,20,White,High school graduate,"Unemployed, not looking for work",9,8,8,11,36,103,0.97,7.77,67.54385965,66.36363636,3.50877193,0,0,0.877192982,0.877192982,0
+R_A08I7lvjyKhhSAp,Female,20,White,Some college,Student,13,12,14,8,47,283,2.12,1.77,48.56230032,48.22006472,0.319488818,0.319488818,0,0,0.319488818,0.319488818
+R_a4M9pJ1rkqd7WYF,Female,19,Asian,Some college,Student,15,,12,6,,134,1.49,3.73,60.13513514,59.31034483,1.351351351,0,0.675675676,0.675675676,0,0.675675676
+R_a4YnvPC8k8vcmmR,Male,21,Mixed-raced,High school graduate,Employed part-time,9,14,11,6,40,103,1.94,0.97,64.16666667,64.16666667,0,0,0,0,0,0
+R_ab1do0cfobM1XyN,Female,31,White,Postgraduate degree,Student,2,3,5,0,10,175,1.71,0.57,55.67010309,55.44041451,0.515463918,0,0,0,0.515463918,0
+R_afVbYIpDzRNwsCt,Female,21,White,Higher education degree,"Unemployed, looking for work",17,14,13,5,49,212,0.47,0.00,45.34412955,45.34412955,0,0,0,0,0,0
+R_AmKHZEygB1UPoJz,Male,31,White,Postgraduate degree,Student,6,6,2,5,19,185,0.54,0.54,57.78894472,57.78894472,0,0,0,0,0,0
+R_AmttTKvQEoZNcNr,Female,43,White,Postgraduate degree,Employed full-time,11,3,3,8,25,276,1.81,0.72,49.34210526,49.34210526,0,0,0,0,0,0
+R_AoqqU551o9gpgaJ,Male,45,White,Some college,,16,12,18,7,53,54,0.00,3.70,82.14285714,82.14285714,0,0,0,0,0,0
+R_b4z5yHuQJLBxCKd,Female,20,White,High school graduate,Student,13,14,10,3,40,393,2.04,3.82,45.34883721,44.5754717,1.162790698,0,0.930232558,0,0.23255814,0
+R_BCYG8N8FbH2gJdn,Female,23,White,College graduate,"Unemployed, not looking for work",5,4,4,7,20,160,1.88,3.12,70,69.46107784,0.588235294,0.588235294,0,0,0,0.588235294
+R_BFDFVfLNaLOO8j7,Female,26,White,Postgraduate degree,Employed full-time,14,12,11,5,42,238,3.36,2.94,55.98455598,55.11811024,1.158301158,0.386100386,0.386100386,0,0.772200772,0.386100386
+R_BK7B7Hb4WcMtJ2F,Female,31,White,Higher education degree,Employed part-time,15,8,6,11,40,399,3.01,0.75,49.65517241,49.42263279,0.229885057,0,0,0,0.229885057,0.229885057
+R_BSBywQJBr2KRkg9,Female,42,White,High school graduate,"Unemployed, not looking for work",2,4,3,10,19,115,1.74,3.48,68.46153846,68.21705426,0,0.769230769,0,0,0,0
+R_BsuLBhAGA98MWvD,Female,19,White,Some college,Student,11,13,9,2,35,185,0.54,0.00,56.15763547,56.15763547,0,0,0,0,0,0
+R_cMBZYfPdO2mCd5n,Female,21,White,Some college,Employed full-time,3,2,4,3,12,229,2.18,0.00,58.87096774,58.87096774,0,0,0,0,0,0
+R_cvSalzSLseGti2R,Male,24,White,College graduate,Employed full-time,13,12,9,10,44,113,0.00,0.00,37.58389262,37.58389262,0,0,0,0,0,0
+R_cwLYDlprg06Nlbr,Female,34,White,Postgraduate degree,Employed full-time,2,1,4,3,10,277,1.08,3.97,54.87012987,54.30463576,0.649350649,0,0.324675325,0,0.324675325,0.974025974
+R_cYLWvT4bn0OHiWl,Female,28,White,Postgraduate degree,Employed full-time,14,16,9,6,45,349,2.01,1.15,47.28682171,47.13541667,0.516795866,0,0,0,0.516795866,0
+R_czExuT9Dwj5qYVj,Female,24,Asian,College graduate,"Unemployed, looking for work",12,9,7,6,34,157,1.91,5.73,57.89473684,56.96969697,1.754385965,0,1.169590643,0,0.584795322,0
+R_cZJys6DUflFgDHX,Female,31,White,Postgraduate degree,Employed full-time,18,11,15,16,60,270,3.33,2.59,52.0979021,51.77304965,0.699300699,0,0.34965035,0,0.34965035,0
+R_D2Udn8HXf4lMirf,Female,28,White,Higher education degree,Employed full-time,14,6,8,5,33,66,1.52,1.52,69.23076923,69.23076923,0,0,0,0,0,0
+R_DBuQvcTjjAZCaRj,Female,31,White,Some college,"Unemployed, not looking for work",3,6,2,0,11,85,1.18,0.00,71.42857143,71.42857143,0,0,0,0,0,0
+R_dhDEvG3Q6nl6zWp,Female,18,White,High school graduate,Employed part-time,10,8,6,3,27,260,1.15,0.77,53.67647059,53.50553506,0,0,0,0,0,0.367647059
+R_dnY66HoFgz31Ka5,Female,22,White,Some college,Student,8,9,10,3,30,596,0.84,0.67,33.68107303,33.48281016,0.149031297,0,0.149031297,0,0,0.149031297
+R_e4CjEkBbF20HvZ7,Female,24,White,Higher education degree,Employed part-time,16,16,16,8,56,299,0.67,0.33,46.15384615,45.82043344,0,0.307692308,0,0,0,0.307692308
+R_ewYY7tpyW5fwcH7,Female,27,White,Some college,Employed full-time,16,12,17,10,55,56,5.36,1.79,60.2739726,60.2739726,0,0,0,0,0,0
+R_NUsKbPqMsJ2imlj,,20,Hispanic,High school graduate,Employed full-time,7,8,7,8,30,135,1.48,3.70,68.45637584,68.24324324,0.67114094,0,0,0,0.67114094,0
+R_OdjabJIKnUPuJfr,Male,21,Asian,Some college,Student,13,13,11,9,46,73,2.74,0.00,57.95454545,57.95454545,0,0,0,0,0,0
+R_OdwlWXTkSj8pcml,Female,20,Asian,Some college,Student,12,15,10,7,44,96,1.04,0.00,63.10679612,63.10679612,0,0,0,0,0,0
+R_OJal6LqP3EuygO5,Female,18,White,High school graduate,"Unemployed, looking for work",14,10,7,11,42,211,2.84,0.00,53.84615385,53.84615385,0,0,0,0,0,0
+R_OlnFE62gWR2nfEZ,Female,19,White,Some college,Student,16,9,8,7,40,186,3.76,2.15,63.90243902,63.36633663,1.463414634,0,0,0.975609756,0.487804878,0
+R_OORMWUA1Pm29gAx,Female,19,White,Some college,"Unemployed, looking for work",18,17,14,15,64,213,1.88,0.47,44.54148472,44.29824561,0.436681223,0,0,0.436681223,0,0
+R_Os4ONggJw0La7G9,Male,21,White,High school graduate,"Unemployed, not looking for work",5,7,5,4,21,97,2.06,1.03,73.04347826,72.80701754,0.869565217,0,0,0,0.869565217,0
+R_PvuHb7EWXxCTbsR,Male,23,White,Some college,Student,7,12,9,3,31,78,2.56,1.28,61.76470588,61.76470588,0,0,0,0,0,0
+R_PYbvjKkIXT6L52p,Female,25,White,College graduate,Employed part-time,11,12,12,8,43,230,0.43,0.43,48.828125,48.62745098,0,0.390625,0,0,0,0
+R_pyKKM78kkjt8dW1,Female,28,White,Higher education degree,Student,14,12,9,9,44,394,1.78,1.02,48.51936219,48.28375286,0.455580866,0,0,0,0.455580866,0
+R_Qca0iElVKSa3bmF,Female,23,White,Higher education degree,Student,7,4,11,2,24,204,1.47,0.49,55.50458716,55.50458716,0,0,0,0,0,0
+R_QoFlxZiCi0SWC7n,Male,38,White,Higher education degree,Student,11,14,13,3,41,200,1.50,2.00,58.49056604,58.37320574,0.943396226,0,0.471698113,0,0.471698113,0
+R_qyH1SdbuyleOBjj,Male,28,Black,College graduate,Employed part-time,12,12,,4,,55,0.00,0.00,57.35294118,57.35294118,0,0,0,0,0,0
+R_r0FDnVx8Z2Z0bHb,Female,38,White,Some college,"Unemployed, not looking for work",15,4,11,1,31,137,2.19,0.73,61.18421053,61.18421053,0,0,0,0,0,0
+R_r2YNML71sTjrWiR,Female,27,White,High school graduate,Employed part-time,14,6,7,4,31,65,4.62,7.69,73.41772152,72.72727273,1.265822785,0,1.265822785,0,0,1.265822785
+R_RCYaa5WDSLrb37X,Male,22,White,College graduate,Employed full-time,4,6,5,1,16,103,0.00,0.00,57.48031496,57.48031496,0,0,0,0,0,0
+R_REOxLBCon43za81,Female,23,White,Higher education degree,"Unemployed, looking for work",16,15,11,3,45,80,2.50,0.00,68.42105263,68.42105263,0,0,0,0,0,0
+R_REspjcbRRaWY0Kd,Female,20,White,Some college,Student,10,13,9,4,36,290,1.03,2.76,46.57980456,46.05263158,0.651465798,0.325732899,0,0,0.651465798,0
+R_RPTsEqXdMEm9FpD,Female,21,Asian,Some college,Student,4,10,10,9,33,162,3.70,0.62,59.78835979,59.78835979,0,0,0,0,0,0
+R_RVNpumo2KzNAcBX,Female,24,White,College graduate,"Unemployed, looking for work",15,14,14,7,50,252,2.78,1.98,62.68656716,62.12121212,0.373134328,0.746268657,0,0.373134328,0,0
+R_s54Tu0frv8HHEpH,Female,23,Asian,Higher education degree,Employed full-time,10,13,10,6,39,167,0.60,0.00,46.07329843,46.07329843,0,0,0,0,0,0
+R_sBZpUTHR063iOlP,Female,20,White,Some college,Student,9,14,13,9,45,83,0.00,0.00,73.4939759,73.4939759,0,0,0,0,0,0
+R_sC2IlAvHFDLHljb,Female,38,White,Some college,Self-employed,13,12,11,12,48,185,0.54,1.62,50,49.78165939,0.434782609,0,0,0.434782609,0,0
+R_sgKjnEc75Pq0l4B,Female,44,White,High school graduate,Employed full-time,4,4,8,1,17,145,3.45,1.38,62.82051282,62.33766234,0.641025641,0.641025641,0.641025641,0,0,0
+R_sHhRb7VaTJBgJUZ,Female,22,White,College graduate,Student,11,15,12,3,41,97,1.03,1.03,66.36363636,66.05504587,0.909090909,0,0,0.909090909,0,0
+R_smUwY8Ea8PXlA53,Female,18,White,High school graduate,Student,16,15,17,8,56,122,1.64,0.00,65.94202899,65.94202899,0,0,0,0,0,0
+R_SNRlJgNCQRDJ0RP,Female,20,Mixed-raced,High school graduate,Student,12,11,10,10,43,256,3.91,1.17,51.66051661,51.66051661,0,0,0,0,0,0
+R_STToSIsMhymGSTT,Female,24,White,Postgraduate degree,Student,7,4,6,2,19,182,1.10,0.00,50.92592593,50.92592593,0,0,0,0,0,0
+R_sU4YuklzUmlkxqN,Non-binary,23,White,Higher education degree,Student,8,12,7,3,30,145,1.38,0.00,56.52173913,56.52173913,0,0,0,0,0,0
+R_SUbGt9VsG5oHuc9,Female,46,White,Some college,Self-employed,7,13,14,1,35,63,3.17,1.59,58.75,58.75,0,0,0,0,0,0
+R_sZIYMc773Yywphf,Female,23,White,Higher education degree,Student,9,2,10,3,24,536,1.87,0.75,38.02083333,37.91304348,0,0,0,0,0,0.173611111
+R_tFXqYOdXYkZDoad,Female,45,Black,College graduate,"Unemployed, not looking for work",15,13,13,14,55,173,1.16,1.73,58.15217391,58.01104972,1.086956522,0,0.543478261,0,0.543478261,0
+R_tPxMA5mwUItLiCt,Male,32,White,Higher education degree,Employed full-time,7,5,10,5,27,50,8.00,8.00,69.81132075,69.81132075,0,0,0,0,0,0
+R_tRlR1DPSRCkgdsR,Male,24,White,College graduate,Employed full-time,13,15,8,4,40,317,3.47,0.32,45.23160763,44.93150685,0,0.272479564,0,0,0,0.272479564
+R_tW1SurZwfjSGaZj,Female,19,White,Less than high school,"Unemployed, not looking for work",16,16,12,16,60,152,3.29,2.63,62.85714286,62.42774566,1.142857143,0,0.571428571,0,0.571428571,0
+R_UAcGXNSZZbpxAVH,Female,28,White,High school graduate,Employed part-time,7,12,9,2,30,52,1.92,1.92,74.57627119,74.13793103,1.694915254,0,0,1.694915254,0,0
+R_UAOvuQak10oCkHD,Female,26,White,Higher education degree,Employed full-time,6,13,5,3,27,84,1.19,1.19,65.13761468,64.81481481,0.917431193,0,0,0,0.917431193,0
+R_uaXby6lNMZikgMN,Non-binary,30,White,Some college,"Unemployed, not looking for work",16,9,13,15,53,249,2.01,5.62,39.3728223,38.70967742,1.393728223,0.348432056,0.696864111,0,0.696864111,0
+R_ujMsBX8vOotrwsN,Female,38,White,Postgraduate degree,Employed full-time,7,8,9,3,27,285,5.61,0.35,48.85245902,48.68421053,0,0.327868852,0,0,0,0
+R_UooLuhBo36kQUVz,Male,18,White,Less than high school,Student,13,12,9,3,37,364,0.55,0.00,43.14720812,43.00254453,0,0.253807107,0,0,0,0
+R_uqVHDbW3jVlGTHb,Male,22,White,Some college,Employed part-time,13,10,5,5,33,122,1.64,0.00,57.74647887,57.74647887,0,0,0,0,0,0
+R_UW0JJNkB4zt8zWF,Female,25,White,College graduate,Employed full-time,9,14,7,1,31,112,2.68,0.00,65.04065041,65.04065041,0,0,0,0,0,0
+R_V2WajB3uJFW7Jlv,Male,21,Mixed-raced,High school graduate,Employed full-time,4,6,11,8,29,66,3.03,3.03,77.46478873,77.46478873,0,0,0,0,0,0
+R_vBsSViab0xSAeQ1,Female,27,White,Postgraduate degree,Employed full-time,10,13,12,3,38,203,1.97,0.49,53.94736842,53.94736842,0,0,0,0,0,0
+R_VJQsbGLwSFxMBEZ,Female,18,White,High school graduate,Student,15,18,16,16,65,235,1.28,2.55,54.65116279,54.11764706,1.162790698,0,0,0.775193798,0.387596899,0
+R_vk5KPmcTqlgVj6p,Female,24,Hispanic,Some college,Employed full-time,11,17,14,10,52,551,3.27,4.72,32.24699828,31.92239859,0.51457976,0.343053173,0,0.343053173,0.171526587,0.171526587
+R_VUqQoVoTHQ3Yepr,Female,35,White,High school graduate,Employed part-time,8,9,10,5,32,223,4.04,3.59,56.61157025,55.69620253,0.41322314,0.826446281,0,0.41322314,0,0.41322314
+R_vV0nvW1mw0vrAQN,Female,18,White,Some college,"Unemployed, looking for work",15,17,16,15,63,252,0.40,0.79,53.06859206,52.89855072,0,0.36101083,0,0,0,0
+R_VVyKKEj4R6fVIWd,Female,21,White,Some college,"Unemployed, looking for work",7,10,9,5,31,226,2.21,1.77,50.38461538,50.19305019,0.384615385,0,0,0,0.384615385,0
+R_W0vduwBwstazplf,Female,21,White,Higher education degree,Student,11,12,7,9,39,99,2.02,0.00,60.52631579,60.52631579,0,0,0,0,0,0
+R_wLDvzbIDTNW7cbf,Female,23,Hispanic,Higher education degree,Student,,11,9,4,,74,2.70,2.70,77.63157895,77.02702703,1.315789474,0,0,0,1.315789474,1.315789474
+R_wTQR2sj4xP71uQp,Female,19,White,Some college,Employed part-time,11,9,16,5,41,127,0.79,0.79,64.13793103,64.13793103,0,0,0,0,0,0
+R_xgW0rYrJXAFlOsV,Non-binary,20,White,Some college,Student,11,15,12,9,47,184,0.54,1.63,60,60.09615385,0.476190476,0,0,0,0.476190476,0
+R_XHcQfQy1F7EuvLz,Female,18,White,Some college,Student,11,17,12,3,43,204,2.45,3.43,55.02183406,54.42477876,0.436681223,0,0,0.436681223,0,0.873362445
+R_XIc1iKTwS2vVDih,Female,28,Hispanic,Postgraduate degree,Employed full-time,0,0,4,2,6,62,0.00,0.00,58.75,58.75,0,0,0,0,0,0
+R_XiEct8UKXf01cPf,Female,24,White,Less than high school,"Unemployed, not looking for work",17,14,11,13,55,87,1.15,4.60,68.31683168,68,0.99009901,0,0,0,0.99009901,0
+R_XmEOJSK5eYL2DuN,Male,23,White,Some college,Student,12,10,12,10,44,327,1.83,0.92,51.23966942,51.23966942,0,0,0,0,0,0
+R_XmHRFMZ0lhmK5ON,Male,38,White,Less than high school,"Unemployed, looking for work",12,8,9,7,36,175,2.29,3.43,61.70212766,60.6557377,1.063829787,1.063829787,0.531914894,0,0,0.531914894
+R_Xt9bK0EKmiyaxod,Non-binary,23,White,Less than high school,"Unemployed, looking for work",10,,15,3,,135,1.48,0.74,50.68493151,50.68493151,0,0,0,0,0,0
+R_XXiUi8rqV440wRr,Female,28,White,Some college,Employed full-time,,6,8,3,,108,3.70,0.93,40.74074074,40.74074074,0,0,0,0,0,0
+R_YbGnL96tQOhaDAt,Female,27,White,Some college,"Unemployed, looking for work",17,14,14,12,57,193,2.07,2.07,61.13744076,60.76555024,0,0,0,0,0,0.947867299
+R_yJdHF4Mw4lkH2O5,Female,30,Hispanic,Some college,Employed full-time,8,13,9,6,36,209,1.91,0.48,60.71428571,60.36036036,0,0.892857143,0,0,0,0
+R_yL0OzOhncUDrpoB,Female,22,Hispanic,Some college,"Unemployed, looking for work",5,7,8,14,34,257,3.50,2.72,54.70383275,54.41696113,0.348432056,0.348432056,0,0,0.348432056,0.348432056
+R_yUDGHEaY3utkJLH,Male,49,White,College graduate,Employed full-time,12,5,8,9,34,110,0.91,3.64,64.1221374,63.56589147,1.526717557,0,0.763358779,0,0.763358779,0
+R_ywsPJ8UwXPQPay5,Male,27,White,College graduate,Employed full-time,5,10,7,,,167,1.80,0.00,65.30612245,65.30612245,0,0,0,0,0,0
+R_z06enQneVjnytfr,Male,23,Hispanic,High school graduate,Employed full-time,14,17,14,13,58,142,1.41,2.11,62.74509804,62.5,0.653594771,0,0,0,0,0
+R_Z7Dz7E3NUAdN7oZ,Female,22,White,High school graduate,,7,,8,1,,134,0.00,3.73,64.58333333,64.33566434,0.694444444,0,0.694444444,0,0,0
+R_zegxRaMc6KBEPQZ,Female,18,Hispanic,Some college,Student,9,17,7,9,42,246,2.44,2.44,58.11320755,57.30769231,0.754716981,0.754716981,0.754716981,0,0,0.377358491
+R_Zh5qtQpcBc9aTHH,Female,47,White,College graduate,"Unemployed, looking for work",10,15,15,10,50,176,1.14,0.57,48.40425532,48.40425532,0,0,0,0,0,0
+R_Zz1KOtueiHHojcJ,Female,18,Asian,High school graduate,"Unemployed, not looking for work",4,8,8,6,26,124,1.61,1.61,62.41134752,61.8705036,0,1.418439716,0,0,0,0
